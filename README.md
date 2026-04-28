@@ -1,2 +1,4 @@
-# Insurance
-This is insurance based project created to do handon on devops tools integration with cloud
+---Docker based ----------
+docker-compose down -v
+docker-compose up --build -d
+-----------------------------
